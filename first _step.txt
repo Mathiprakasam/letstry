@@ -1,0 +1,8 @@
+Hi!!!!!!!  this is just a knowing how github works
+setup github account
+create repo
+then clone git link
+add file to repo in local machine
+check git status
+then commit that file in stagging area
+afterwards push the file to origin main 
