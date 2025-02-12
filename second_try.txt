@@ -1,0 +1,5 @@
+git clone repository-link
+git add file_name  
+git status (U - Untracked File)
+git commit -m "commit message"
+git push origin main
