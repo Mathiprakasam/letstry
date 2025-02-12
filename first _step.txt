@@ -6,3 +6,5 @@ add file to repo in local machine
 check git status
 then commit that file in stagging area
 afterwards push the file to origin main 
+
+<-- Thank you -->
